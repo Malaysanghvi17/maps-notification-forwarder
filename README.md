@@ -57,7 +57,7 @@ The app needs three permissions to function correctly. It will guide you through
 
 #### 3. Start Navigating!
 1.  Open **Google Maps** and start a new trip.
-2.  Open the **NavBridge** app and tap "▶️ Start Monitoring".
+2.  Open the **NavBridge** app.
 3.  Lock your phone and enjoy getting directions on your wrist!
 
 ---
