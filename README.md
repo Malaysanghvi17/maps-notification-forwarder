@@ -37,10 +37,10 @@ Because this new notification is a standard Android notification, almost any sma
 
 ## Setup & Usage (For Users)
 
-Follow these steps to get NavBridge running on your phone.
+Follow these steps to get the Android App running on your phone.
 
 #### 1. Install the App
--   Go to the [**Releases**](https://github.com/your-username/NavBridge/releases) page of this repository.
+-   Go to the [**Releases**](https://github.com/Malaysanghvi17/maps-notification-forwarder/releases) page of this repository.
 -   Download the latest `.apk` file.
 -   Open the file on your Android device and install it. You may need to grant permission to "Install from unknown sources".
 
@@ -57,7 +57,7 @@ The app needs three permissions to function correctly. It will guide you through
 
 #### 3. Start Navigating!
 1.  Open **Google Maps** and start a new trip.
-2.  Open the **NavBridge** app.
+2.  Open the app (let it run in background).
 3.  Lock your phone and enjoy getting directions on your wrist!
 
 ---
