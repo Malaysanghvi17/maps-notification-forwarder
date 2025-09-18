@@ -22,7 +22,7 @@ This App solves the problem by acting as a middle-man. It runs a lightweight, re
 2.  **Extracts** the vital information: the direction (e.g., "Turn right on Main St") and the distance/time.
 3.  **Creates** a brand new, clean, and simple notification containing this information.
 
-Because this new notification is a standard Android notification, almost any smartwatch's companion app (like Fitbit, Zepp, or Garmin Connect) can easily pick it up and push it to your wrist, just like a text message.
+Because this new notification is a standard Android notification, almost any smartwatch's companion app (like Samsung Galaxy Wearable, etc) can easily pick it up and push it to your wrist, just like a text message.
 
 ### Key Features
 
@@ -49,7 +49,7 @@ The app needs three permissions to function correctly. It will guide you through
 
 * **① Notification Access:**
     * **Why?** This is required to read the notifications posted by Google Maps.
-    * **How?** Tap "Enable Notification Access". This will open your phone's settings. Find **NavBridge** in the list and toggle it on.
+    * **How?** Tap "Enable Notification Access". This will open your phone's settings. Find our App in the list and toggle it on.
 
 * **② Post Notifications (Android 13+):**
     * **Why?** This is needed to create and show the new notification that gets sent to your watch.
@@ -67,7 +67,7 @@ The app needs three permissions to function correctly. It will guide you through
 If you want to modify the code or build the app yourself, follow these steps.
 
 #### Prerequisites
--   Intellij Idea IDE with gradle setup or [Android Studio](https://developer.android.com/studio) (latest stable version recommended).
+-   Intellij IDEA IDE with gradle setup or [Android Studio](https://developer.android.com/studio) (latest stable version recommended).
 -   An Android device or emulator running API 26 (Android 8.0) or higher.
 
 #### Building
