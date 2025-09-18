@@ -2,7 +2,6 @@
 
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![made-with-kotlin](https://img.shields.io/badge/Made%20with-Kotlin-17216E.svg)](https://kotlinlang.org/)
 
 An Android app to relay Google Maps navigation notifications to smartwatches and other wearables that don't receive them natively.
@@ -88,7 +87,3 @@ If you want to modify the code or build the app yourself, follow these steps.
 -   **`NotificationListenerService`**: The core of the app. `MapsNotificationListener.kt` extends this service to gain access to the notification stream and filter for Google Maps updates.
 -   **`Foreground Service`**: To ensure the `NotificationListenerService` is not killed by the Android system when the app is in the background, it promotes itself to a foreground service, displaying a persistent notification.
 -   **`BroadcastReceiver`**: The service communicates with the `MainActivity` (the UI) by sending broadcasts. This allows the UI to display logs of the notifications being relayed.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
