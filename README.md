@@ -9,7 +9,7 @@ An Android app to relay Google Maps navigation notifications to smartwatches and
 
 ## The Problem
 
-Many Smartwatches and fitness trackers, especially those not running Wear OS (such as Samsung Fit 3, etc.), have basic notification support. They can show you incoming calls and text messages, but they often fail to display complex or persistent notifications from third-party apps like Google Maps.
+Many Smartwatches and fitness trackers, especially those not running Wear OS (such as Samsung Fit 3, etc.), have basic notification support. They can show you incoming calls and text messages, but they often fail to display complex or persistent notifications from apps like Google Maps.
 
 This means that while you're driving, cycling, or walking, you can't get those crucial turn-by-turn directions with a quick glance at your wrist. You're forced to look at your phone, which can be inconvenient.
 
