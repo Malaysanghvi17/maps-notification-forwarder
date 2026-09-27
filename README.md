@@ -36,14 +36,7 @@ Because this new notification is a standard Android notification, almost any sma
 
 ## Setup & Usage (For Users)
 
-Follow these steps to get the Android App running on your phone.
-
-#### 1. Install the App
--   Go to the [**Releases**](https://github.com/Malaysanghvi17/maps-notification-forwarder/releases) page of this repository.
--   Download the latest `.apk` file.
--   Open the file on your Android device and install it. You may need to grant permission to "Install from unknown sources".
-
-#### 2. Grant Necessary Permissions
+#### 1. Grant Necessary Permissions
 The app needs three permissions to function correctly. It will guide you through enabling them.
 
 * **① Notification Access:**
@@ -54,7 +47,7 @@ The app needs three permissions to function correctly. It will guide you through
     * **Why?** This is needed to create and show the new notification that gets sent to your watch.
     * **How?** The app will show a standard permission pop-up. Tap "Allow".
 
-#### 3. Start Navigating!
+#### 2. Start Navigating!
 1.  Open **Google Maps** and start a new trip.
 2.  Open the app (let it run in background).
 3.  Lock your phone and enjoy getting directions on your wrist!
